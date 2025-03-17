@@ -1,4 +1,3 @@
-# eza.github.io
 <html lang="en">
  <head>
   <meta charset="utf-8"/>
